@@ -1,6 +1,3 @@
-# UART
-FSM-based UART in Verilog HDL with baud rate generator, TX/RX modules, and FPGA debugging using Vivado ILA and VIO.
-
 # UART (Universal Asynchronous Receiver Transmitter) in Verilog HDL
 
 An FSM-based UART designed in Verilog HDL, integrated in Vivado IP Integrator, and debugged on FPGA hardware using ILA and VIO.
